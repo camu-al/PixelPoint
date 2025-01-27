@@ -20,11 +20,11 @@ jobs:
         run: echo "Optional placeholder. Put your project's static website generator command here."
 
       - name: Install dependencies
-        working-directory: documentacio
+        working-directory: PixelPoint
         run: npm ci
         
       - name: nmp build
-        working-directory: documentacio
+        working-directory: PixelPoint
         run: npm run build
 
       - name: Publish current workdir (which contains generated content) to GitHub Pages
@@ -41,7 +41,7 @@ jobs:
           # Such a directory does *not* have to already exist in your repo,
           # it could be an output directory created dynamically
           # by your static website builder.
-          source-directory: documentacio/build
+          source-directory: PixelPoint/build
 
           # Optional. Default value "gh-pages".
           # It specifies the temporary branch which hosts the static website.
