@@ -20,7 +20,7 @@ Pixel Point
 Una aplicació que ofereix una plataforma en línia innovadora per comprar, vendre i descobrir videojocs de totes les categories.].
 
 ### **Quí som**
-Som Pixel Point, una empresa apassionada pel món dels videojocs i la tecnologia.
+Som Pixel Point, una empresa apassionada pel món dels videojocs i la tecnologia
 
 ### **Vídeo promocional**
 link.
