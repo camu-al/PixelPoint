@@ -1,8 +1,8 @@
 ---
-id: documentacio-PixelPoint
-title: Pixel Point
+id: PixelPoint
+title: PixelPoint
 description: Documentació oficial de Pixel Point
-sidebar_label: Documentació
+sidebar_label: PixelPoint
 ---
 
 # **Documentació del Projecte**
