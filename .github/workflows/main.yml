@@ -28,7 +28,7 @@ jobs:
         run: npm run build
 
       - name: ls build
-        run: ls PixelPoint/build
+        run: ls -l PixelPoint/build
 
       - name: Publish current workdir (which contains generated content) to GitHub Pages
         uses: rayluo/github-pages-overwriter@v1.3
