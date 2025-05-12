@@ -7,7 +7,7 @@
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
-    <p>Editado</p>
+    <h1>Top juegos</h1>
     <table class="table table-bordered">
         <thead>
             <th>Juego</th>
